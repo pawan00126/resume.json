@@ -1,0 +1,55 @@
+{
+	"basics": {
+		"name": "",
+		"label": "Student",
+		"picture": " https://avatars.githubusercontent.com/u/88237341?v=4 ",
+		"email": "2020kucp1117@iiitkota.ac.in",
+		"phone": "+919772802113",
+		"summary": "I'm a student of Indian Institute of Information technology,Kota (India), persuing my B.tech in Computer Science & engineering.",
+		"location": {
+			"address": "Billu , Makrana , Nagaur",
+			"postalCode": " 341542 ",
+			"city": " Nagaur ",
+			"countryCode": " India",
+			"region": " Rajasthan "
+		},
+		"profiles": [{
+				"network": "Github",
+				"username": " pawan00126 ",
+				"url": "https://github.com/pawan00126"
+			},
+			{
+				"network": "twitter",
+				"username": "pawan00126 ",
+				"url": "https://mobile.twitter.com/pawan00126 "
+			},
+			{
+				"network": "linkedin",
+
+				"username": "pawan-bhati-860036202 ",
+				"url": "https://www.linkedin.com/mwlite/in/pawan-bhati-860036202 "
+			},
+			{
+				"network": "Instagram",
+				"username": "pawan_00126 ",
+				"url": "https://www.instagram.com/pawan_00126/ "
+			}
+		]
+	},
+	"education": [{
+		"institution": "Indian Institute of Information Technology,Kota",
+		"area": "Engineering",
+		"studyType": "Bachelor of Technology",
+		"courses": ["Computer Science & Engineering"]
+	}],
+	"skills": [{
+		"level": "Beginner",
+		"keywords": ["HTML",
+			"CSS",
+			" javascript ",
+			"C/C++"
+		]
+	}],
+
+	"references": []
+}
